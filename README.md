@@ -1,0 +1,1 @@
+收集了各版本的Flash控件，包括ActiveX、NPAPI和PPAPI。
